@@ -1,0 +1,7 @@
+C:\Users\Miguel\source\repos\CompilersProject\CompilersProject\bin\Debug\CompilersProject.exe.config
+C:\Users\Miguel\source\repos\CompilersProject\CompilersProject\bin\Debug\CompilersProject.exe
+C:\Users\Miguel\source\repos\CompilersProject\CompilersProject\bin\Debug\CompilersProject.pdb
+C:\Users\Miguel\source\repos\CompilersProject\CompilersProject\obj\Debug\CompilersProject.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\CompilersProject\CompilersProject\obj\Debug\CompilersProject.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\CompilersProject\CompilersProject\obj\Debug\CompilersProject.exe
+C:\Users\Miguel\source\repos\CompilersProject\CompilersProject\obj\Debug\CompilersProject.pdb
